@@ -157,11 +157,7 @@ uanderson@dev:~$ roadmap --year 2026
   [████░░░░░░░░░░░░░░░░]  20%   Framework backend (Flask / FastAPI)
   [██░░░░░░░░░░░░░░░░░░]  10%   Inglés técnico
 
-uanderson@dev:~$ next --priority
 
-  ▸ publicar 4 proyectos reales de facturación y ventas
-  ▸ conectar Python + SQL en una app completa de punta a punta
-  ▸ sumarme a un equipo de tecnología como junior o practicante
 ```
 
 <div align="center">
